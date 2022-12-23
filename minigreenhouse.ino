@@ -2,8 +2,8 @@
 #include <Servo.h>
 
 //settings
-const char* ssid = "Mudbunker";
-const char* password = "Mudde112";
+const char* ssid = "Your SSID";
+const char* password = "Your Password";
 int SerialSpeed = 115200;
 int ServoPin = 14;
 int WaterLevelPin = 12;
